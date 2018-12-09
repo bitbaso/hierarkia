@@ -31,5 +31,8 @@ hierarkia("animals.dog", function() {
 }());
 ```
 
+##Result
+![browser result](https://github.com/bitbaso/hierarkia/blob/master/screenshot/hierarkiaBrowser.jpg)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
