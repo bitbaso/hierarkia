@@ -1,0 +1,31 @@
+{
+  "name": "hierarkia",
+  "version": "1.0.0",
+  "description": "Javascript namespace creator",
+  "keywords": [
+    "hierarkia",
+    "bitbaso",
+    "namespace",
+    "javascript"
+  ],
+  "homepage": "https://github.com/owner/project#readme",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.1",
+    "mocha": "^5.2.0",
+    "pump": "^3.0.0",
+    "gulp-rename": "1.4.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "bitbaso",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/cli.git"
+  }
+}
